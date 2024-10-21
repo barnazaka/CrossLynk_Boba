@@ -1,10 +1,10 @@
-# CrossChain DApp
+# CrossLynk_Boba
 
 ## Overview
-CrossChain DApp is a decentralized application (dApp) built on the Boba Network that enables seamless asset management and transfers across multiple blockchain networks. By leveraging Boba’s unique cross-chain capabilities, users can easily manage their digital assets in a secure and user-friendly environment.
+CrossLynk_Boba is a decentralized application (dApp) built on the Boba Network that enables seamless asset management and transfers across multiple blockchain networks. By leveraging Boba’s unique cross-chain capabilities, users can easily manage their digital assets in a secure and user-friendly environment.
 
 ## Features
-- **Cross-Chain Transfers**: Effortlessly transfer assets between different blockchains.
+- **CrossLynk_Boba Transfers**: Effortlessly transfer assets between different blockchains.
 - **User-Friendly Interface**: Intuitive design that simplifies asset management.
 - **Low Transaction Fees**: Benefit from Boba Network’s reduced transaction costs.
 - **Secure Transactions**: Built-in security features to protect user assets and data.
@@ -24,7 +24,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/crosschain-dapp.git
-   cd crosschain-dapp
+   cd CrossLynk_Boba
    
    npm install
    
@@ -36,6 +36,7 @@ Usage
 Create an account or connect your wallet.
 Select the asset you want to transfer and specify the target blockchain.
 Confirm the transaction and manage your assets seamlessly across chains.
+
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
