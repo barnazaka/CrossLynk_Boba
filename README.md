@@ -25,9 +25,12 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/crosschain-dapp.git
    cd crosschain-dapp
-npm install
+   
+   npm install
+   
+   npm run dev
 
-npm run dev
+
 
 Usage
 Create an account or connect your wallet.
