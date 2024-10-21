@@ -1,0 +1,17 @@
+CrossLynk_Boba/
+├── client/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── components/
+│   │       ├── AssetManager.js
+│   │       └── TransferForm.js
+│   └── package.json
+├── server/
+│   ├── index.js
+│   ├── routes/
+│   │   └── api.js
+│   └── package.json
+└── README.md
