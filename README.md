@@ -1,7 +1,7 @@
 # CrossLynk_Boba
 
 ## Overview
-CrossLynk_Boba is a decentralized application (dApp) built on the Boba Network that enables seamless asset management and transfers across multiple blockchain networks. By leveraging Boba’s unique cross-chain capabilities, users can easily manage their digital assets in a secure and user-friendly environment.
+CrossLynk_Boba is a decentralized application (dApp) that will be built on the Boba Network which will enable seamless asset management and transfers across multiple blockchain networks. By leveraging Boba’s unique cross-chain capabilities, users can easily manage their digital assets in a secure and user-friendly environment.
 
 ## Features
 - **CrossLynk_Boba Transfers**: Effortlessly transfer assets between different blockchains.
