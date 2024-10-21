@@ -32,20 +32,15 @@ To set up the project locally, follow these steps:
 
 
 
-Usage
-Create an account or connect your wallet.
+Usage:- Create an account or connect your wallet.
 Select the asset you want to transfer and specify the target blockchain.
 Confirm the transaction and manage your assets seamlessly across chains.
 
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributing:- Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-License
-This project is licensed under the MIT License.
+License:- This project is licensed under the MIT License.
 
-Contact
-For inquiries, please reach out to barnazaka@gmail.com
+Contact:- For inquiries, please reach out to barnazaka@gmail.com
 
-Acknowledgments
-Thanks to the Boba Network for their support and documentation.
+Acknowledgments:- Thanks to the Boba Network for their support and documentation.
 Inspiration from various cross-chain projects in the DeFi space.
