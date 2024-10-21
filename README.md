@@ -25,3 +25,23 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/crosschain-dapp.git
    cd crosschain-dapp
+npm install
+
+npm run dev
+
+Usage
+Create an account or connect your wallet.
+Select the asset you want to transfer and specify the target blockchain.
+Confirm the transaction and manage your assets seamlessly across chains.
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+License
+This project is licensed under the MIT License.
+
+Contact
+For inquiries, please reach out to barnazaka@gmail.com
+
+Acknowledgments
+Thanks to the Boba Network for their support and documentation.
+Inspiration from various cross-chain projects in the DeFi space.
